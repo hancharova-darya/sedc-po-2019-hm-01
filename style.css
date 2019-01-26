@@ -1,4 +1,9 @@
-.navigation{
+body{
+	display: flex;
+	flex-direction: column;}
+
+	.navigation{
+
 	height: 5%;
 	width: 100%;
 	background-color: #cadbc0;
@@ -25,3 +30,4 @@ a{
 	color: #0e4749;
 	font-weight: bold;
 }
+
