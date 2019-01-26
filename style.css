@@ -1,0 +1,27 @@
+.navigation{
+	height: 5%;
+	width: 100%;
+	background-color: #cadbc0;
+	display: flex;
+	justify-content: space-between;
+}
+.logo{
+	width: 40%;
+	margin: 20px;
+}
+.navbar{
+	width: 60%;
+}
+
+ul{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	font-family: 'Lato';
+	font-size: 16pt;
+	color: #0e4749;
+	font-weight: bold;
+}
