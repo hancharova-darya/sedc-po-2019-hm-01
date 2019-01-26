@@ -31,3 +31,31 @@ a{
 	font-weight: bold;
 }
 
+.maincontainer{
+	height: 80%;
+	width: 100%;
+	
+	display: flex;
+
+	
+}
+.body{
+	width: 70%;
+	height: 100%;
+	font-family: 'Lato';
+	padding: 3%;
+	color: #0e4749;
+	
+}
+.sidebar{
+	width: 30%;
+	height: 100%;
+	
+}
+p{
+	font-size: 14pt;
+}
+h4{
+	font-size: 16pt;
+}
+
